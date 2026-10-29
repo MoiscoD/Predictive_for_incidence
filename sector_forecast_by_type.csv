@@ -1,0 +1,33 @@
+sector,horizon_months,incident_type,expected_per_100_people
+Education,3,Account takeover,6.9
+Education,3,Financial fraud / scams,7.4
+Education,3,Malware / ransomware / DDoS,5.1
+Education,3,Phishing / social engineering,6.0
+Education,6,Account takeover,13.8
+Education,6,Financial fraud / scams,14.7
+Education,6,Malware / ransomware / DDoS,10.2
+Education,6,Phishing / social engineering,11.9
+Healthcare,3,Account takeover,10.3
+Healthcare,3,Financial fraud / scams,9.8
+Healthcare,3,Malware / ransomware / DDoS,6.5
+Healthcare,3,Phishing / social engineering,7.6
+Healthcare,6,Account takeover,20.6
+Healthcare,6,Financial fraud / scams,19.6
+Healthcare,6,Malware / ransomware / DDoS,13.0
+Healthcare,6,Phishing / social engineering,15.1
+Information Technology,3,Account takeover,10.4
+Information Technology,3,Financial fraud / scams,5.4
+Information Technology,3,Malware / ransomware / DDoS,8.4
+Information Technology,3,Phishing / social engineering,5.5
+Information Technology,6,Account takeover,20.8
+Information Technology,6,Financial fraud / scams,10.8
+Information Technology,6,Malware / ransomware / DDoS,16.7
+Information Technology,6,Phishing / social engineering,11.0
+Other sectors,3,Account takeover,12.1
+Other sectors,3,Financial fraud / scams,10.3
+Other sectors,3,Malware / ransomware / DDoS,6.1
+Other sectors,3,Phishing / social engineering,8.4
+Other sectors,6,Account takeover,24.1
+Other sectors,6,Financial fraud / scams,20.5
+Other sectors,6,Malware / ransomware / DDoS,12.2
+Other sectors,6,Phishing / social engineering,16.8

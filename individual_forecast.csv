@@ -1,0 +1,67 @@
+person_id,sector,prob_any_incident_3m,prob_any_incident_6m,most_likely_type,prob_that_type_3m,prob_that_type_6m,Account takeover | 3m,Financial fraud / scams | 3m,Malware / ransomware / DDoS | 3m,Phishing / social engineering | 3m,Account takeover | 6m,Financial fraud / scams | 6m,Malware / ransomware / DDoS | 6m,Phishing / social engineering | 6m
+P001,Education,0.199,0.358,Malware / ransomware / DDoS,0.086,0.165,0.024,0.064,0.086,0.04,0.047,0.124,0.165,0.079
+P002,Education,0.175,0.32,Account takeover,0.074,0.142,0.074,0.072,0.018,0.023,0.142,0.139,0.036,0.045
+P003,Healthcare,0.191,0.346,Financial fraud / scams,0.068,0.131,0.064,0.068,0.044,0.031,0.123,0.131,0.085,0.062
+P004,Information Technology,0.196,0.354,Malware / ransomware / DDoS,0.078,0.149,0.065,0.044,0.078,0.025,0.126,0.086,0.149,0.05
+P005,Other sectors,0.23,0.408,Account takeover,0.076,0.147,0.076,0.05,0.054,0.073,0.147,0.098,0.105,0.141
+P006,Education,0.274,0.473,Account takeover,0.118,0.222,0.118,0.095,0.044,0.049,0.222,0.181,0.085,0.096
+P007,Information Technology,0.32,0.537,Account takeover,0.12,0.226,0.12,0.069,0.093,0.084,0.226,0.133,0.178,0.161
+P008,Other sectors,0.314,0.529,Account takeover,0.116,0.218,0.116,0.096,0.059,0.087,0.218,0.183,0.115,0.167
+P009,Other sectors,0.366,0.598,Financial fraud / scams,0.152,0.281,0.118,0.152,0.084,0.075,0.222,0.281,0.161,0.144
+P010,Information Technology,0.401,0.641,Account takeover,0.221,0.393,0.221,0.091,0.078,0.082,0.393,0.173,0.151,0.157
+P011,Information Technology,0.436,0.682,Account takeover,0.254,0.443,0.254,0.102,0.109,0.055,0.443,0.194,0.205,0.108
+P012,Information Technology,0.252,0.44,Account takeover,0.125,0.235,0.125,0.035,0.074,0.043,0.235,0.069,0.142,0.084
+P013,Information Technology,0.437,0.683,Account takeover,0.194,0.35,0.194,0.119,0.177,0.036,0.35,0.224,0.322,0.072
+P014,Information Technology,0.279,0.48,Account takeover,0.114,0.215,0.114,0.055,0.08,0.064,0.215,0.106,0.154,0.124
+P015,Other sectors,0.291,0.498,Account takeover,0.113,0.212,0.113,0.074,0.059,0.084,0.212,0.142,0.115,0.16
+P016,Education,0.124,0.233,Account takeover,0.048,0.094,0.048,0.036,0.014,0.032,0.094,0.071,0.028,0.062
+P017,Education,0.249,0.436,Account takeover,0.087,0.167,0.087,0.078,0.031,0.079,0.167,0.151,0.061,0.151
+P018,Healthcare,0.236,0.417,Phishing / social engineering,0.074,0.143,0.045,0.07,0.072,0.074,0.088,0.134,0.138,0.143
+P019,Education,0.239,0.42,Financial fraud / scams,0.086,0.165,0.048,0.086,0.075,0.054,0.094,0.165,0.144,0.105
+P020,Information Technology,0.253,0.442,Account takeover,0.102,0.194,0.102,0.063,0.073,0.041,0.194,0.123,0.142,0.081
+P021,Information Technology,0.225,0.4,Account takeover,0.094,0.178,0.094,0.05,0.073,0.03,0.178,0.097,0.14,0.06
+P022,Education,0.165,0.303,Financial fraud / scams,0.073,0.141,0.054,0.073,0.02,0.029,0.105,0.141,0.039,0.057
+P023,Healthcare,0.329,0.549,Financial fraud / scams,0.125,0.235,0.077,0.125,0.107,0.069,0.149,0.235,0.202,0.133
+P024,Information Technology,0.18,0.328,Malware / ransomware / DDoS,0.059,0.114,0.056,0.038,0.059,0.04,0.109,0.075,0.114,0.079
+P025,Information Technology,0.225,0.4,Account takeover,0.101,0.192,0.101,0.033,0.078,0.034,0.192,0.064,0.151,0.066
+P026,Education,0.22,0.392,Phishing / social engineering,0.081,0.155,0.075,0.059,0.025,0.081,0.145,0.115,0.049,0.155
+P027,Information Technology,0.104,0.197,Phishing / social engineering,0.039,0.076,0.013,0.019,0.037,0.039,0.025,0.038,0.073,0.076
+P028,Education,0.203,0.365,Malware / ransomware / DDoS,0.079,0.152,0.016,0.056,0.079,0.068,0.032,0.108,0.152,0.132
+P029,Information Technology,0.209,0.374,Phishing / social engineering,0.089,0.171,0.056,0.036,0.045,0.089,0.109,0.071,0.088,0.171
+P030,Information Technology,0.219,0.389,Malware / ransomware / DDoS,0.105,0.199,0.054,0.044,0.105,0.035,0.105,0.087,0.199,0.068
+P031,Information Technology,0.198,0.357,Malware / ransomware / DDoS,0.104,0.198,0.025,0.034,0.104,0.05,0.049,0.067,0.198,0.097
+P032,Other sectors,0.262,0.455,Phishing / social engineering,0.094,0.179,0.045,0.065,0.087,0.094,0.089,0.125,0.167,0.179
+P033,Other sectors,0.241,0.423,Malware / ransomware / DDoS,0.083,0.16,0.066,0.072,0.083,0.044,0.127,0.139,0.16,0.086
+P034,Education,0.147,0.272,Phishing / social engineering,0.063,0.122,0.012,0.025,0.055,0.063,0.025,0.049,0.106,0.122
+P035,Education,0.391,0.629,Financial fraud / scams,0.15,0.278,0.147,0.15,0.03,0.134,0.272,0.278,0.059,0.25
+P036,Education,0.274,0.473,Account takeover,0.118,0.222,0.118,0.095,0.044,0.049,0.222,0.181,0.085,0.096
+P037,Education,0.245,0.429,Malware / ransomware / DDoS,0.102,0.193,0.07,0.07,0.102,0.028,0.135,0.135,0.193,0.055
+P038,Education,0.327,0.547,Phishing / social engineering,0.123,0.23,0.085,0.102,0.066,0.123,0.164,0.193,0.128,0.23
+P039,Education,0.157,0.29,Account takeover,0.065,0.125,0.065,0.052,0.023,0.027,0.125,0.101,0.046,0.053
+P040,Education,0.145,0.269,Financial fraud / scams,0.053,0.103,0.023,0.053,0.05,0.028,0.045,0.103,0.098,0.055
+P041,Information Technology,0.147,0.272,Malware / ransomware / DDoS,0.051,0.099,0.046,0.028,0.051,0.03,0.09,0.056,0.099,0.059
+P042,Other sectors,0.43,0.675,Financial fraud / scams,0.184,0.333,0.157,0.184,0.052,0.126,0.29,0.333,0.102,0.237
+P043,Education,0.274,0.473,Account takeover,0.118,0.222,0.118,0.095,0.044,0.049,0.222,0.181,0.085,0.096
+P044,Information Technology,0.294,0.502,Account takeover,0.177,0.322,0.177,0.054,0.066,0.03,0.322,0.104,0.128,0.058
+P045,Education,0.247,0.433,Malware / ransomware / DDoS,0.1,0.191,0.07,0.068,0.1,0.034,0.135,0.131,0.191,0.068
+P046,Education,0.219,0.39,Account takeover,0.088,0.169,0.088,0.066,0.026,0.058,0.169,0.127,0.052,0.113
+P047,Education,0.159,0.292,Phishing / social engineering,0.057,0.111,0.012,0.042,0.057,0.057,0.025,0.082,0.11,0.111
+P048,Other sectors,0.379,0.614,Account takeover,0.24,0.423,0.24,0.089,0.025,0.079,0.423,0.171,0.05,0.152
+P049,Education,0.168,0.308,Phishing / social engineering,0.068,0.132,0.011,0.06,0.039,0.068,0.023,0.116,0.077,0.132
+P050,Education,0.146,0.27,Financial fraud / scams,0.053,0.103,0.038,0.053,0.041,0.022,0.074,0.103,0.08,0.044
+P051,Information Technology,0.225,0.399,Account takeover,0.082,0.157,0.082,0.046,0.065,0.053,0.157,0.091,0.127,0.103
+P052,Education,0.305,0.517,Financial fraud / scams,0.131,0.245,0.103,0.131,0.025,0.085,0.196,0.245,0.05,0.162
+P053,Information Technology,0.176,0.321,Malware / ransomware / DDoS,0.051,0.1,0.051,0.049,0.051,0.037,0.1,0.096,0.1,0.073
+P054,Information Technology,0.2,0.359,Malware / ransomware / DDoS,0.079,0.151,0.033,0.034,0.079,0.07,0.065,0.068,0.151,0.134
+P055,Information Technology,0.238,0.42,Malware / ransomware / DDoS,0.071,0.137,0.071,0.069,0.071,0.052,0.137,0.132,0.137,0.101
+P056,Education,0.183,0.333,Phishing / social engineering,0.067,0.129,0.015,0.049,0.066,0.067,0.029,0.096,0.128,0.129
+P057,Education,0.248,0.435,Phishing / social engineering,0.11,0.208,0.064,0.059,0.041,0.11,0.124,0.115,0.081,0.208
+P058,Healthcare,0.226,0.401,Malware / ransomware / DDoS,0.075,0.144,0.057,0.055,0.075,0.061,0.111,0.106,0.144,0.119
+P059,Other sectors,0.225,0.4,Financial fraud / scams,0.088,0.168,0.075,0.088,0.024,0.059,0.144,0.168,0.048,0.115
+P060,Healthcare,0.174,0.318,Account takeover,0.056,0.109,0.056,0.056,0.021,0.054,0.109,0.109,0.042,0.105
+P061,Information Technology,0.371,0.605,Phishing / social engineering,0.15,0.277,0.144,0.053,0.088,0.15,0.267,0.104,0.168,0.277
+P062,Education,0.248,0.434,Malware / ransomware / DDoS,0.111,0.209,0.05,0.068,0.111,0.045,0.097,0.131,0.209,0.088
+P063,Education,0.18,0.327,Financial fraud / scams,0.059,0.114,0.051,0.059,0.039,0.045,0.099,0.114,0.076,0.088
+P064,Healthcare,0.515,0.765,Account takeover,0.267,0.463,0.267,0.18,0.058,0.144,0.463,0.328,0.113,0.267
+P065,Education,0.276,0.475,Account takeover,0.156,0.287,0.156,0.06,0.026,0.063,0.287,0.116,0.051,0.123
+P066,Information Technology,0.189,0.343,Malware / ransomware / DDoS,0.099,0.189,0.023,0.033,0.099,0.047,0.046,0.064,0.189,0.093
